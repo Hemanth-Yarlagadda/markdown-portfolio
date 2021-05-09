@@ -1,1 +1,1 @@
-![Git](https://github.com/Hemanth-Yarlagadda)
+[Git](https://github.com/Hemanth-Yarlagadda)
