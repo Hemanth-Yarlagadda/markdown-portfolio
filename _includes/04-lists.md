@@ -1,3 +1,3 @@
 - Mango
 - Ice cream
-- 'Lassi'
+- `Lassi`
