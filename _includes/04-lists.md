@@ -1,2 +1,3 @@
 - Mango
 - Ice cream
+- 'Lassi'
